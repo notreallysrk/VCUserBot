@@ -15,7 +15,7 @@ from pytgcalls.types.input_stream.quality import (
 from youtubesearchpython import VideosSearch
 
 from config import HNDLR, bot, call_py
-from MusicAndVideo.helpers.queues import QUEUE, add_to_queue, get_queue
+from Userbot.helpers.queues import QUEUE, add_to_queue, get_queue
 
 
 # music player
