@@ -8,7 +8,7 @@
 
 ## JOIN [@𝐒𝐔𝐏𝐏𝐎𝐑𝐓](HTTPS://T.ME/DECODESUPPORT) 
 
-##JOIN [@𝐂𝐇𝐀𝐍𝐍𝐄𝐋](HTTPS://T.ME/DEECODEBOTS) 
+## JOIN [@𝐂𝐇𝐀𝐍𝐍𝐄𝐋](HTTPS://T.ME/DEECODEBOTS) 
 
 # DEPLOY TO HEROKU 
 
