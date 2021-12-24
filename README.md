@@ -17,7 +17,7 @@
 
 # CREDIT
 
-AKKI - godfatherakkii
+[AKKI](https://t.me/godfatherakkii) - CONTRIBUTOR
 
 LAKY - FOR PY-TGCALLS
 
