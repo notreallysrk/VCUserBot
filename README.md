@@ -19,8 +19,8 @@
 
 [AKKI](https://t.me/godfatherakkii) - CONTRIBUTOR
 
-LAKY - FOR PY-TGCALLS
+LAKY(https://t.me/Laky64) - FOR PY-TGCALLS
 
-ERROR - CONTRIBUTOR
+ERROR(https://t.me/BrayDenXD) - CONTRIBUTOR
 
-BLAZE - OWNER
+BLAZE(https://t.me/piroXpower)- OWNER
