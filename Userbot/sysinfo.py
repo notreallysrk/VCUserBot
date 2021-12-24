@@ -1,6 +1,8 @@
 """!sysinfo use psutil to get system information"""
 from datetime import datetime
 import psutil
+from config import HNDLR
+from Userbot.helpers.decorators import authorized_users_only
 from psutil._common import bytes2human
 from pyrogram import Client, filters
 
