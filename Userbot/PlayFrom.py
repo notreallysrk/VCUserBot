@@ -2,7 +2,7 @@ import os
 import asyncio
 from pyrogram import Client
 from Userbot.helpers import QUEUE, add_to_queue
-from config import HNDLR, call_py
+from config import HNDLR, call_py, bot
 from pyrogram import filters
 from pyrogram.types import Message
 from pytgcalls import StreamType
