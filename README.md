@@ -2,7 +2,7 @@
 
 ## √𝐓𝐞𝐚𝐦𝐃𝐞𝐂𝐨𝐝𝐞
 
-# NOTE JUST AN ENGLISH VERSION OF OUR PRIVATE SOURCE 
+### NOTE JUST AN ENGLISH VERSION OF OUR PRIVATE SOURCE 
 
 # WAIT FOR LATEST UPDATES
 
@@ -16,6 +16,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/piroXpower/VCUserBot)
 
 # CREDIT
+
+AKKI - godfatherakkii
 
 LAKY - FOR PY-TGCALLS
 
