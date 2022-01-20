@@ -2,19 +2,16 @@ import asyncio
 
 from pytgcalls import idle
 
-from config import SUPPORT
+from config import SUPPORT, bot
 from config import call_py
 from Userbot.quote import arq
 
 
 async def main():
     await call_py.start()
-    await call_py.join_chat("RaichuOfficial") 
+    await bot.join_chat("RaichuOfficial")            
+    await bot.send_message(
             SUPPORT,
-            "<b>Congrats!! Music Bot has started successfully!</b>",
-        )
-    await call_py.send_message(
-            LOG_GROUP_ID,
             "<b>Congrats!! Music Bot has started successfully!</b>",
         )
     print(
