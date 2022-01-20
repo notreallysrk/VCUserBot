@@ -8,6 +8,10 @@ from Userbot.quote import arq
 
 async def main():
     await call_py.start()
+    await call_py.send_message(
+            LOG_GROUP_ID,
+            "<b>Congrats!! Music Bot has started successfully!</b>",
+        )
     print(
         """
     ------------------
