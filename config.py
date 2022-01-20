@@ -16,6 +16,7 @@ API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
 SESSION = os.getenv("SESSION", "session")
 HNDLR = os.getenv("HNDLR", "/")
+SUPPORT = os.getenv("SUPPORT", "RaichuOfficial")
 SUDO_USERS = list(map(int, os.getenv("SUDO_USERS").split()))
 
 
